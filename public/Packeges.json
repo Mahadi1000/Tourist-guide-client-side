@@ -1,0 +1,226 @@
+[
+  {
+    "place": "Sundarbans",
+    "category": "Nature",
+    "package": {
+      "name": "Mystical Mangroves",
+      "duration": "3 Days/2 Nights",
+      "price": "$499",
+      "includes": ["Guided Tour", "Accommodation", "Meals", "Boat Safari"],
+      "description": "Embark on a mesmerizing journey to the Sundarbans, the largest mangrove forest on the planet. Our 'Mystical Mangroves' package offers a 3-day escape into the heart of nature's wonders. Discover diverse wildlife, cruise along tranquil rivers, and experience the enchanting beauty of this UNESCO World Heritage Site."
+    },
+    "guide": {
+      "name": "Aisha Rahman",
+      "image": "guide_aisha.jpg"
+    },
+    "image": "sundarbans.jpg"
+  },
+  {
+    "place": "Cox's Bazar",
+    "category": "Beach",
+    "package": {
+      "name": "Golden Beach Retreat",
+      "duration": "4 Days/3 Nights",
+      "price": "$699",
+      "includes": ["Guided Tour", "Beachfront Accommodation", "Meals", "Water Sports"],
+      "description": "Indulge in the beauty of Cox's Bazar with our 'Golden Beach Retreat' package. Spend 4 days and 3 nights in luxury beachfront accommodation, enjoy thrilling water sports, and witness breathtaking sunsets on the world's longest natural sea beach."
+    },
+    "guide": {
+      "name": "Rahul Ahmed",
+      "image": "guide_rahul.jpg"
+    },
+    "image": "coxs_bazar.jpg"
+  },
+  {
+    "place": "Srimangal",
+    "category": "Countryside",
+    "package": {
+      "name": "Tea Plantation Delight",
+      "duration": "2 Days/1 Night",
+      "price": "$299",
+      "includes": ["Guided Tour", "Tea Tasting", "Accommodation", "Local Cuisine"],
+      "description": "Immerse yourself in the aromatic world of tea at Srimangal. Our 'Tea Plantation Delight' package invites you to explore lush green tea estates, engage in tea tasting sessions, and experience the rich cultural tapestry of the region in just 2 days and 1 night."
+    },
+    "guide": {
+      "name": "Priya Das",
+      "image": "guide_priya.jpg"
+    },
+    "image": "srimangal.jpg"
+  },
+  {
+    "place": "Rangamati",
+    "category": "Hill Stations",
+    "package": {
+      "name": "Lakeview Serenity",
+      "duration": "3 Days/2 Nights",
+      "price": "$549",
+      "includes": ["Guided Tour", "Boating", "Hillside Accommodation", "Local Cuisine"],
+      "description": "Discover the tranquility of Rangamati with our 'Lakeview Serenity' package. Spend 3 days and 2 nights exploring the picturesque landscapes, enjoying boat rides on Kaptai Lake, and immersing yourself in the indigenous culture of the Chittagong Hill Tracts."
+    },
+    "guide": {
+      "name": "Anik Chowdhury",
+      "image": "guide_anik.jpg"
+    },
+    "image": "rangamati.jpg"
+  },
+  {
+    "place": "Kuakata",
+    "category": "Beach",
+    "package": {
+      "name": "Sunset Bliss",
+      "duration": "2 Days/1 Night",
+      "price": "$349",
+      "includes": ["Guided Tour", "Beachside Accommodation", "Meals", "Sunset Viewing"],
+      "description": "Experience the magical sunsets of Kuakata with our 'Sunset Bliss' package. This 2-day, 1-night journey offers you the opportunity to relax on the pristine beaches, witness breathtaking sunsets over the Bay of Bengal, and indulge in delicious local cuisine."
+    },
+    "guide": {
+      "name": "Nadia Khan",
+      "image": "guide_nadia.jpg"
+    },
+    "image": "kuakata.jpg"
+  },
+  {
+    "place": "Saint Martin's Island",
+    "category": "Island",
+    "package": {
+      "name": "Island Paradise Escape",
+      "duration": "4 Days/3 Nights",
+      "price": "$799",
+      "includes": ["Guided Tour", "Island Accommodation", "Meals", "Snorkeling"],
+      "description": "Embark on a tropical adventure with our 'Island Paradise Escape' package at Saint Martin's Island. Spend 4 days and 3 nights surrounded by pristine beaches, crystal-clear waters, and vibrant marine life. Explore the underwater world with exciting snorkeling activities and create unforgettable memories in this secluded paradise."
+    },
+    "guide": {
+      "name": "Farhan Ahmed",
+      "image": "guide_farhan.jpg"
+    },
+    "image": "saint_martin.jpg"
+  },
+  {
+    "place": "Bandarban",
+    "category": "Hill Stations",
+    "package": {
+      "name": "Hillside Expedition",
+      "duration": "5 Days/4 Nights",
+      "price": "$899",
+      "includes": ["Guided Trek", "Hillside Accommodation", "Meals", "Waterfalls Tour"],
+      "description": "Embark on a thrilling adventure with our 'Hillside Expedition' package in Bandarban. This 5-day, 4-night journey takes you through lush green hills, hidden waterfalls, and indigenous villages. Immerse yourself in the unique culture and natural beauty of this hill district."
+    },
+    "guide": {
+      "name": "Sara Khan",
+      "image": "guide_sara.jpg"
+    },
+    "image": "bandarban.jpg"
+  },
+  {
+    "place": "Dhaka",
+    "category": "City",
+    "package": {
+      "name": "Historical Discovery",
+      "duration": "2 Days/1 Night",
+      "price": "$249",
+      "includes": ["Guided Tour", "City Accommodation", "Meals", "Historical Sites Visit"],
+      "description": "Uncover the rich history of Dhaka with our 'Historical Discovery' package. Spend 2 days and 1 night exploring the capital city's historical landmarks, vibrant markets, and cultural heritage. Immerse yourself in the blend of modernity and tradition that defines Dhaka."
+    },
+    "guide": {
+      "name": "Kabir Ahmed",
+      "image": "guide_kabir.jpg"
+    },
+    "image": "dhaka.jpg"
+  },
+  {
+    "place": "Rajshahi",
+    "category": "City",
+    "package": {
+      "name": "Silk City Exploration",
+      "duration": "3 Days/2 Nights",
+      "price": "$449",
+      "includes": ["Guided Tour", "City Accommodation", "Meals", "Silk Industry Visit"],
+      "description": "Discover the cultural richness of Rajshahi with our 'Silk City Exploration' package. Spend 3 days and 2 nights exploring historical sites, vibrant markets, and the renowned silk industry. Immerse yourself in the heritage and traditions of this fascinating city."
+    },
+    "guide": {
+      "name": "Fatima Rahman",
+      "image": "guide_fatima.jpg"
+    },
+    "image": "rajshahi.jpg"
+  },
+  {
+    "place": "Khulna",
+    "category": "Nature",
+    "package": {
+      "name": "Mangrove Gateway",
+      "duration": "4 Days/3 Nights",
+      "price": "$599",
+      "includes": ["Guided Tour", "Accommodation", "Meals", "Mangrove Forest Exploration"],
+      "description": "Embark on a unique adventure with our 'Mangrove Gateway' package in Khulna. Spend 4 days and 3 nights exploring the enchanting mangrove forests, cruising along rivers, and discovering the diverse flora and fauna of this captivating region."
+    },
+    "guide": {
+      "name": "Imran Khan",
+      "image": "guide_imran.jpg"
+    },
+    "image": "khulna.jpg"
+  },
+  {
+    "place": "Barisal",
+    "category": "River",
+    "package": {
+      "name": "Riverine Serenade",
+      "duration": "2 Days/1 Night",
+      "price": "$299",
+      "includes": ["Guided Tour", "River Cruise", "Accommodation", "Local Cuisine"],
+      "description": "Experience the tranquility of Barisal with our 'Riverine Serenade' package. Spend 2 days and 1 night exploring the picturesque rivers, enjoying a leisurely river cruise, and immersing yourself in the warmth of local hospitality."
+    },
+    "guide": {
+      "name": "Sohaila Rahman",
+      "image": "guide_sohaila.jpg"
+    },
+    "image": "barisal.jpg"
+  },
+  {
+    "place": "Jessore",
+    "category": "Rural",
+    "package": {
+      "name": "Agricultural Odyssey",
+      "duration": "3 Days/2 Nights",
+      "price": "$449",
+      "includes": ["Guided Tour", "Agricultural Farm Visits", "Accommodation", "Local Cuisine"],
+      "description": "Embark on an agricultural adventure with our 'Agricultural Odyssey' package in Jessore. Spend 3 days and 2 nights exploring farms, learning about sustainable agriculture practices, and enjoying local cuisine in the heart of Bangladesh's agricultural hub."
+    },
+    "guide": {
+      "name": "Nabeel Ahmed",
+      "image": "guide_nabeel.jpg"
+    },
+    "image": "jessore.jpg"
+  },
+  {
+    "place": "Chittagong",
+    "category": "City",
+    "package": {
+      "name": "Port City Escape",
+      "duration": "2 Days/1 Night",
+      "price": "$299",
+      "includes": ["Guided Tour", "City Accommodation", "Meals", "Port Visit"],
+      "description": "Discover the vibrant city of Chittagong with our 'Port City Escape' package. Spend 2 days and 1 night exploring the bustling markets, historical sites, and the busy port. Immerse yourself in the dynamic energy of this coastal metropolis."
+    },
+    "guide": {
+      "name": "Zainab Ahmed",
+      "image": "guide_zainab.jpg"
+    },
+    "image": "chittagong.jpg"
+  },
+  {
+    "place": "Comilla",
+    "category": "Historical",
+    "package": {
+      "name": "Historic Trail",
+      "duration": "3 Days/2 Nights",
+      "price": "$449",
+      "includes": ["Guided Tour", "City Accommodation", "Meals", "Historical Sites Visit"],
+      "description": "Explore the historical treasures of Comilla with our 'Historic Trail' package. Spend 3 days and 2 nights discovering ancient landmarks, archaeological sites, and the cultural heritage of this city. Immerse yourself in the tales of the past while enjoying modern comforts."
+    },
+    "guide": {
+      "name": "Arif Khan",
+      "image": "guide_arif.jpg"
+    },
+    "image": "comilla.jpg"
+  }
+]
